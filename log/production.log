@@ -1,0 +1,137 @@
+
+
+Processing PostsController#index (for 199.89.103.12 at 2009-07-09 13:54:31) [GET]
+Rendering template within layouts/posts
+Rendering posts/index
+Completed in 8ms (View: 5, DB: 1) | 200 OK [http://www.stimyoul.us/]
+
+
+Processing PostsController#new (for 199.89.103.12 at 2009-07-09 13:54:36) [GET]
+Rendering template within layouts/posts
+Rendering posts/new
+Completed in 5ms (View: 4, DB: 1) | 200 OK [http://www.stimyoul.us/posts/new]
+
+
+Processing PostsController#create (for 199.89.103.12 at 2009-07-09 13:54:38) [POST]
+  Parameters: {"commit"=>"Create", "post"=>{"body"=>"hi", "title"=>"hello"}, "authenticity_token"=>"CcrPgU3jFoEgOD+p2qAxSpsAeWl3YTtIVAFYqnhwoKI="}
+Redirected to http://www.stimyoul.us/posts/1
+Completed in 9ms (DB: 2) | 302 Found [http://www.stimyoul.us/posts]
+
+
+Processing PostsController#show (for 199.89.103.12 at 2009-07-09 13:54:38) [GET]
+  Parameters: {"id"=>"1"}
+Rendering template within layouts/posts
+Rendering posts/show
+Completed in 2ms (View: 1, DB: 0) | 200 OK [http://www.stimyoul.us/posts/1]
+
+
+Processing PostsController#index (for 199.89.103.12 at 2009-07-09 13:54:40) [GET]
+Rendering template within layouts/posts
+Rendering posts/index
+Completed in 3ms (View: 1, DB: 0) | 200 OK [http://www.stimyoul.us/posts]
+
+
+Processing PostsController#new (for 199.89.103.12 at 2009-07-09 13:54:41) [GET]
+Rendering template within layouts/posts
+Rendering posts/new
+Completed in 2ms (View: 1, DB: 0) | 200 OK [http://www.stimyoul.us/posts/new]
+
+
+Processing PostsController#create (for 199.89.103.12 at 2009-07-09 13:54:44) [POST]
+  Parameters: {"commit"=>"Create", "post"=>{"body"=>"no", "title"=>"nothing"}, "authenticity_token"=>"CcrPgU3jFoEgOD+p2qAxSpsAeWl3YTtIVAFYqnhwoKI="}
+Redirected to http://www.stimyoul.us/posts/2
+Completed in 54ms (DB: 51) | 302 Found [http://www.stimyoul.us/posts]
+
+
+Processing PostsController#show (for 199.89.103.12 at 2009-07-09 13:54:44) [GET]
+  Parameters: {"id"=>"2"}
+Rendering template within layouts/posts
+Rendering posts/show
+Completed in 2ms (View: 1, DB: 0) | 200 OK [http://www.stimyoul.us/posts/2]
+
+
+Processing PostsController#index (for 199.89.103.12 at 2009-07-09 13:54:45) [GET]
+Rendering template within layouts/posts
+Rendering posts/index
+Completed in 3ms (View: 2, DB: 0) | 200 OK [http://www.stimyoul.us/posts]
+
+
+Processing PostsController#new (for 199.89.103.12 at 2009-07-09 13:54:46) [GET]
+Rendering template within layouts/posts
+Rendering posts/new
+Completed in 2ms (View: 1, DB: 0) | 200 OK [http://www.stimyoul.us/posts/new]
+
+
+Processing PostsController#create (for 199.89.103.12 at 2009-07-09 13:54:53) [POST]
+  Parameters: {"commit"=>"Create", "post"=>{"body"=>"better then devel", "title"=>"production is "}, "authenticity_token"=>"CcrPgU3jFoEgOD+p2qAxSpsAeWl3YTtIVAFYqnhwoKI="}
+Redirected to http://www.stimyoul.us/posts/3
+Completed in 5ms (DB: 2) | 302 Found [http://www.stimyoul.us/posts]
+
+
+Processing PostsController#show (for 199.89.103.12 at 2009-07-09 13:54:53) [GET]
+  Parameters: {"id"=>"3"}
+Rendering template within layouts/posts
+Rendering posts/show
+Completed in 2ms (View: 1, DB: 0) | 200 OK [http://www.stimyoul.us/posts/3]
+
+
+Processing PostsController#index (for 199.89.103.12 at 2009-07-09 13:54:54) [GET]
+Rendering template within layouts/posts
+Rendering posts/index
+Completed in 3ms (View: 2, DB: 0) | 200 OK [http://www.stimyoul.us/posts]
+
+
+Processing PostsController#index (for 199.89.103.12 at 2009-07-09 13:55:39) [GET]
+Rendering template within layouts/posts
+Rendering posts/index
+Completed in 3ms (View: 2, DB: 0) | 200 OK [http://www.stimyoul.us/posts]
+
+
+Processing PostsController#index (for 199.89.103.12 at 2009-07-09 13:55:41) [GET]
+Rendering template within layouts/posts
+Rendering posts/index
+Completed in 3ms (View: 2, DB: 0) | 200 OK [http://www.stimyoul.us/posts]
+
+
+Processing PostsController#index (for 199.89.103.12 at 2009-07-09 13:55:42) [GET]
+Rendering template within layouts/posts
+Rendering posts/index
+Completed in 3ms (View: 2, DB: 0) | 200 OK [http://www.stimyoul.us/posts]
+
+
+Processing PostsController#index (for 199.89.103.12 at 2009-07-09 13:55:45) [GET]
+Rendering template within layouts/posts
+Rendering posts/index
+Completed in 3ms (View: 2, DB: 0) | 200 OK [http://www.stimyoul.us/]
+
+
+Processing PostsController#edit (for 199.89.103.12 at 2009-07-09 13:55:47) [GET]
+  Parameters: {"id"=>"2"}
+Rendering template within layouts/posts
+Rendering posts/edit
+Completed in 3ms (View: 2, DB: 0) | 200 OK [http://www.stimyoul.us/posts/2/edit]
+
+
+Processing PostsController#update (for 199.89.103.12 at 2009-07-09 13:55:48) [PUT]
+  Parameters: {"commit"=>"Update", "post"=>{"body"=>"no", "title"=>"nothing"}, "authenticity_token"=>"CcrPgU3jFoEgOD+p2qAxSpsAeWl3YTtIVAFYqnhwoKI=", "id"=>"2"}
+Redirected to http://www.stimyoul.us/posts/2
+Completed in 2ms (DB: 0) | 302 Found [http://www.stimyoul.us/posts/2]
+
+
+Processing PostsController#show (for 199.89.103.12 at 2009-07-09 13:55:48) [GET]
+  Parameters: {"id"=>"2"}
+Rendering template within layouts/posts
+Rendering posts/show
+Completed in 2ms (View: 1, DB: 0) | 200 OK [http://www.stimyoul.us/posts/2]
+
+
+Processing PostsController#index (for 199.89.103.12 at 2009-07-09 13:55:49) [GET]
+Rendering template within layouts/posts
+Rendering posts/index
+Completed in 3ms (View: 2, DB: 0) | 200 OK [http://www.stimyoul.us/posts]
+
+
+Processing PostsController#index (for 199.89.103.12 at 2009-07-09 13:56:18) [GET]
+Rendering template within layouts/posts
+Rendering posts/index
+Completed in 9ms (View: 6, DB: 1) | 200 OK [http://www.stimyoul.us/posts]
